@@ -67,3 +67,5 @@ PolicyExporterDWAQ这个东西也是要改的，然后是num_obs_hist，这个�
 
 可能还是存在一些小问题。
 
+目前的privileged_obs可能不太好，也许要加入随机化参数之类的？
+
